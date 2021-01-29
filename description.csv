@@ -1,0 +1,7 @@
+Amount of Variables;Types ;Visualization
+;;
+1;continuous;Histogram
+1;Categorical;Bar chart
+2;2X continuous;Scatterplot
+2;cat + con;Box plot
+2;2X categorical;Heat map
